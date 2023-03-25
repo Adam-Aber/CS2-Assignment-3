@@ -1,0 +1,25 @@
+# ninja log v5
+457	583	7014754872681369	untitled.exe	1f8a65c3d99c2828
+9	294	7014754869848408	CMakeFiles/untitled.dir/Customer.cpp.obj	612f6302abc13efa
+16	314	7014754870050296	CMakeFiles/untitled.dir/Mechanic.cpp.obj	219c52a5b603b254
+11	400	7014754013507746	CMakeFiles/untitled.dir/Person.cpp.obj	b2744ac2ba3ca15b
+3	457	7014754871479874	CMakeFiles/untitled.dir/main.cpp.obj	d9769c74cab2a1b7
+1	463	7014760087771697	build.ninja	aa3ad1083b4aa861
+25	332	7014760327554131	CMakeFiles/untitled.dir/Customer.cpp.obj	d431a86cd68021ad
+19	333	7014760327584715	CMakeFiles/untitled.dir/Mechanic.cpp.obj	6dc13c0bbb3bce6b
+11	394	7014760328172706	CMakeFiles/untitled.dir/Person.cpp.obj	5912472411e8d00a
+3	521	7014760329413435	CMakeFiles/untitled.dir/main.cpp.obj	dd56990a1b02d319
+521	721	7014760331405415	untitled.exe	1f8a65c3d99c2828
+4	696	7014762032782273	CMakeFiles/untitled.dir/main.cpp.obj	dd56990a1b02d319
+697	954	7014762035303412	untitled.exe	1f8a65c3d99c2828
+4	588	7014762210953365	CMakeFiles/untitled.dir/main.cpp.obj	dd56990a1b02d319
+589	750	7014762212544404	untitled.exe	1f8a65c3d99c2828
+3	438	7014762338129813	CMakeFiles/untitled.dir/main.cpp.obj	dd56990a1b02d319
+438	549	7014762339202291	untitled.exe	1f8a65c3d99c2828
+3	461	7014763250076890	CMakeFiles/untitled.dir/main.cpp.obj	dd56990a1b02d319
+462	578	7014763251194251	untitled.exe	1f8a65c3d99c2828
+11	285	7014765308086653	CMakeFiles/untitled.dir/Mechanic.cpp.obj	6dc13c0bbb3bce6b
+4	442	7014765309660686	CMakeFiles/untitled.dir/main.cpp.obj	dd56990a1b02d319
+442	565	7014765310847497	untitled.exe	1f8a65c3d99c2828
+5	547	7014773399064221	CMakeFiles/untitled.dir/main.cpp.obj	dd56990a1b02d319
+548	720	7014773400727418	untitled.exe	1f8a65c3d99c2828
